@@ -2,8 +2,7 @@
 
 ### O que foi desenvolvido:
 
-desenvolvi uma API REST de um CRUD posts de blog utilizando uma ORM(sequelize). Começando pela API, você vai desenvolver alguns endpoints (seguindo os princípios do REST) que estarão conectados ao seu banco de dados, aplicando conceitos SOLID.
-
+desenvolvi uma API REST de um CRUD posts de blog utilizando uma ORM(sequelize).
 ---
 
 # Instruções para entregar seu projeto:
