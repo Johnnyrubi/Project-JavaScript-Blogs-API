@@ -5,10 +5,8 @@
 desenvolvi uma API REST de um CRUD posts de blog utilizando uma ORM(sequelize).
 ---
 
-# Instruções para entregar seu projeto:
 
-
-### ANTES DE COMEÇAR A DESENVOLVER:
+### ANTES DE TUDO.
 
 1. Clone o repositório
   * git clone
